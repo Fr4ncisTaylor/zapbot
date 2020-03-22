@@ -1,7 +1,13 @@
-contact         = "Francis Eu"
-webWhatsapp     = "https://web.whatsapp.com/"
-path            = "/home/taylor/chromedriver"
+"""
+change only the [contact] and [path] fields, 
+change the others only if you are absolutely 
+sure of what you are doing!!!
+""""
+contact         = "MY CONTACT"
+path            = "/path/to/chromedriver"
 
+## DO NOT MODIFY ##
+webWhatsapp     = "https://web.whatsapp.com/"
 classes = dict(
 	msg_text    = "-N6Gq",
 	msg_box     = "_13mgZ",
