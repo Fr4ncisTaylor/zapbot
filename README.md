@@ -1,7 +1,8 @@
 # ZapBot Master
 
-<p align="center">⚜️<strong>Versão 1.0 | Python 3+</strong></p>
-<p align="center">⚜️<strong>A simple bot using whatsapp web, selenium and python 3.</strong></p>
+<p align="center"><strong>Versão 1.0 | Python 3+</strong></p>
+<p align="center"><strong>A simple bot using whatsapp web, selenium and python 3.</strong></p>
+
 **Settings**
 
 * Clone the repository: ```git clone https://github.com/francis-taylor/zapbot.git```
