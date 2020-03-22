@@ -19,3 +19,9 @@ A simple bot using whatsapp web, selenium and python 3.
 **starting the bot**
 
 * After configuring the bot correctly, just type ```python3 bot.py```
+
+**Commands**
+
+* The bot has only one command ```/start```, add yourself, more commands in the ```bot.py``` file.
+
+[!example](example.jpg)
