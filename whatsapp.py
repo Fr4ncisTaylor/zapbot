@@ -47,6 +47,16 @@ class bot:
             sleep(2)
         except Exception as e:
             print("Error send message", e)
+    def sendMedia(self, file):
+        try:
+            self.driver.find_element_by_css_selector(config.css['media_button']).click()
+            attach = self.driver.find_element_by_css_selector(config.css['media_input'])
+            attach.send_keys(fileToSend)
+            sleep(3)
+            send = self.driver.find_element_by_xpath(config.css['send_button'])
+            send.click()
+        except Exception as e:
+            print("Error send media", e)
 
     def initialize(self):
         contato = config.contact
