@@ -1,6 +1,7 @@
-# zapbot
-A simple bot using whatsapp web, selenium and python 3.
+# ZapBot Master
 
+<p align="center">⚜️<strong>Versão 1.0 | Python 3+</strong></p>
+<p align="center">⚜️<strong>A simple bot using whatsapp web, selenium and python 3.</strong></p>
 **Settings**
 
 * Clone the repository: ```git clone https://github.com/francis-taylor/zapbot.git```
@@ -24,4 +25,4 @@ A simple bot using whatsapp web, selenium and python 3.
 
 * The bot has only one command ```/start```, add yourself, more commands in the ```bot.py``` file.
 
-[!example](example.jpg)
+<p align="center"><img src="example.jpg" alt="start"></p>
