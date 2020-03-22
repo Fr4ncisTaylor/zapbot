@@ -24,6 +24,12 @@
 
 **Commands**
 
-* The bot has only two commands ```/start``` and ```/media```, add yourself, more commands in the ```bot.py``` file.
+* Type ```/start``` and bot return "Hello!"
 
-<p align="center"><img src="example.jpg" alt="start"></p>
+<p align="center"><img src="message.jpg" alt="message"></p>
+
+* Type ```/media``` and bot return a media.
+
+<p align="center"><img src="media.jpg" alt="media"></p>
+
+add yourself, more commands in the ```bot.py``` file.
