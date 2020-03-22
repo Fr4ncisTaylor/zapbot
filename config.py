@@ -21,6 +21,6 @@ css = dict(
 	left_msg     = "span.selectable-text",
 	media_button = "span[data-icon='clip']",
 	media_input  = "input[type='file']",
-	send_button  = "//div[contains(@class, 'yavlE')]",
+	send_button  = "//div[contains(@class, 'iA40b')]",
 
 	)
