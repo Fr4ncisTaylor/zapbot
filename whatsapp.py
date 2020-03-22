@@ -62,7 +62,7 @@ class bot:
     def loop(self,handle):
         msg = ""
         left_msg = ""
-        while msg 1:
+        while 1==1:
             msg = bot.leftMessage(self)
             if left_msg != msg:
                 handle(msg)
