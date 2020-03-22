@@ -48,7 +48,8 @@ class bot:
         except Exception as e:
             print("Error send message", e)
 
-    def initialize(self, contato):
+    def initialize(self):
+        contato = config.contact
         """ Open especific contact """
         try:
             self.caixa_de_pesquisa = self.driver.find_element_by_class_name(config.classes['search_box'])#
