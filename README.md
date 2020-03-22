@@ -24,6 +24,6 @@
 
 **Commands**
 
-* The bot has only one command ```/start```, add yourself, more commands in the ```bot.py``` file.
+* The bot has only two commands ```/start``` and ```/media```, add yourself, more commands in the ```bot.py``` file.
 
 <p align="center"><img src="example.jpg" alt="start"></p>
