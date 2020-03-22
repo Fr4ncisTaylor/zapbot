@@ -2,10 +2,12 @@
 change only the [contact] and [path] fields, 
 change the others only if you are absolutely 
 sure of what you are doing!!!
-""""
+"""
+
 contact         = "MY CONTACT"
 path            = "/path/to/chromedriver"
 
+#____________________________________________#
 ## DO NOT MODIFY ##
 webWhatsapp     = "https://web.whatsapp.com/"
 classes = dict(
