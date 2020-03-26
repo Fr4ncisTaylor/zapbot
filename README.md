@@ -1,5 +1,9 @@
 # ZapBot Master
+* * *
+[![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
+----
 <p align="center"><strong>Versão 1.0 | Python 3+</strong></p>
 <p align="center"><strong>A simple bot using whatsapp web, selenium and python 3.</strong></p>
 
